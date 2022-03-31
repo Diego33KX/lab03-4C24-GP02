@@ -4,4 +4,5 @@ public class StudentController {
 	public int num_control;
 	public int cod;
 	public String nombre;
+	public int nota1;
 }
